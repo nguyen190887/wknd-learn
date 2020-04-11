@@ -7,3 +7,7 @@
 
 # Prototype building
 - https://www.build.me
+
+# Windows command-line installers
+- https://scoop.sh/
+- https://chocolatey.org/
