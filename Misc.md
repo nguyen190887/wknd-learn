@@ -11,3 +11,6 @@
 # Windows command-line installers
 - https://scoop.sh/
 - https://chocolatey.org/
+
+# ElasticSearch
+- [Easy & Flexible Alerting With ElasticSearch](https://github.com/Yelp/elastalert)
