@@ -13,3 +13,6 @@
 
 # Polyfill
 - https://polyfill.io/v3/
+
+# State Machine
+- https://xstate.js.org/docs/
