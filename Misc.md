@@ -17,3 +17,6 @@
 
 # Low Code
 - [Honeycode](https://www.honeycode.aws/) - build app with less code
+
+# Code Analysis Platform
+- [Semmle](https://semmle.com/)
