@@ -20,3 +20,7 @@
 
 # Code Analysis Platform
 - [Semmle](https://semmle.com/)
+
+# Security
+- https://www.versioneye.com/ - checking version of dependencies (e.g. any vunerable issues in a package)
+
