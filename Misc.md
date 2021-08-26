@@ -25,3 +25,6 @@
 - https://www.versioneye.com/ - checking version of dependencies (e.g. any vunerable issues in a package)
 - https://www.tripwire.com/ - can be used to monitor credentials file and more
 
+# API Testing
+- https://reqres.in/ - provides an open REST interface
+
