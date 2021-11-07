@@ -16,3 +16,6 @@
 
 # State Machine
 - https://xstate.js.org/docs/
+
+# Frontend tools
+- https://vitejs.dev
