@@ -32,3 +32,10 @@
 # API Testing
 - https://reqres.in/ - provides an open REST interface
 
+# OLAP
+- https://clickhouse.com
+
+# K8s
+## Tools
+- https://k3s.io
+
