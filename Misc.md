@@ -37,5 +37,6 @@
 
 # K8s
 ## Tools
-- https://k3s.io
+- https://k3s.io - Cluster management
+- https://k8slens.dev - IDE/monitoring/debugger
 
