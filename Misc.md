@@ -40,6 +40,9 @@
 ## Unit Test
 - https://www.conftest.dev - test structured configured data (Terraform code, K8s configuration, etc.)
 
+## UI
+- https://github.com/thoughtworks/Arium - Automation Testing Framework for XR(Unity) Applications
+
 # OLAP
 - https://clickhouse.com
 
