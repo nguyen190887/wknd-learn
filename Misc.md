@@ -76,3 +76,6 @@
 ## Web Debugging Proxy
 - https://www.charlesproxy.com
 - https://proxyman.io - Web Debugging proxy
+
+# Database
+- https://ksqldb.io - ksqlDB - "The database purpose-built for stream processing applications"
