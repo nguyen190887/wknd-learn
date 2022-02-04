@@ -8,6 +8,7 @@
 # Team Collaboration
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack - VS liveshare
 - https://www.jetbrains.com/code-with-me/ - Code with Me by JetBrains
+- https://kitemaker.co/ - Fast alternative to Jira, built for remote teams
 
 # Architecture framework
 - https://en.m.wikipedia.org/wiki/The_Open_Group_Architecture_Framework
@@ -52,7 +53,6 @@
 - https://k8slens.dev - IDE/monitoring/debugger
 - https://www.telepresence.io - implement & k8s
 
-
 # Mono repo
 - https://lerna.js.org/
 - https://nx.dev - a trend to shift away from Lerna to this!
@@ -61,7 +61,6 @@
 - https://github.com/facebook/jscodeshift - toolkit for refactoring JS code
 - https://comby.dev - Unix tool spirit
 - https://about.sourcegraph.com - commercial tool for searching code
-
 
 # Container
 - https://github.com/sigstore/cosign - Tool to sign and verify container image
@@ -76,6 +75,10 @@
 ## Web Debugging Proxy
 - https://www.charlesproxy.com
 - https://proxyman.io - Web Debugging proxy
+
+## IDE online
+- https://github.com/conwnet/github1s - read github code in 1s (adding 1s after `github` and before `.com` - e.g. https://github`1s`.com/microsoft/vscode)
+- https://vscode.dev/ - VsCode online
 
 # Database
 - https://ksqldb.io - ksqlDB - "The database purpose-built for stream processing applications"

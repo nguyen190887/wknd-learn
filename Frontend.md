@@ -29,3 +29,6 @@
 
 # Angular
 - https://ngneat.github.io/transloco/ - The internationalization (i18n) library for Angular
+
+# Charts/Virsualization
+- https://chartscss.org/ - Create chart with CSS
