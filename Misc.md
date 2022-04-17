@@ -80,5 +80,8 @@
 - https://github.com/conwnet/github1s - read github code in 1s (adding 1s after `github` and before `.com` - e.g. https://github`1s`.com/microsoft/vscode)
 - https://vscode.dev/ - VsCode online
 
+## CI/CD & Pipeline
+- https://github.com/nektos/act - run GitHub Actions locally
+
 # Database
 - https://ksqldb.io - ksqlDB - "The database purpose-built for stream processing applications"
