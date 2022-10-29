@@ -52,6 +52,7 @@
 - https://k3s.io - Cluster management
 - https://k8slens.dev - IDE/monitoring/debugger
 - https://www.telepresence.io - implement & k8s
+- https://github.com/up9inc/mizu/tree/main - API traffic viewer for Kubernetes (like Wireshark)
 
 # Mono repo
 - https://lerna.js.org/
@@ -64,6 +65,7 @@
 
 # Container
 - https://github.com/sigstore/cosign - Tool to sign and verify container image
+- https://github.com/hadolint/hadolint - Docker linter
 
 # Dev Tools
 ## GIT
@@ -85,3 +87,7 @@
 
 # Database
 - https://ksqldb.io - ksqlDB - "The database purpose-built for stream processing applications"
+
+# API
+- https://stoplight.io/open-source/spectral - API Style Guide Enforcer / Linter
+
