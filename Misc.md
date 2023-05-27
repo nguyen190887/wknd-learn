@@ -5,6 +5,9 @@
 ## Developer Portal
 - https://backstage.io
 
+## Event-driven Architecture
+https://www.eventcatalog.dev/ - an Open Source project that helps you document your events, services and domains.
+
 # Team Collaboration
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack - VS liveshare
 - https://www.jetbrains.com/code-with-me/ - Code with Me by JetBrains
