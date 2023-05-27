@@ -9,3 +9,5 @@
 # API mocking
 - https://mswjs.io - Mock Service Worker - "API mocking of the next generation"
 
+# CMS
+- [Strapi](https://strapi.io/) - an open-source, NodeJS-based, headless content management system (CMS)
