@@ -88,6 +88,9 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 ## CI/CD & Pipeline
 - https://github.com/nektos/act - run GitHub Actions locally
 
+## Cloud search
+- https://steampipe.io/ - an open-source tool that lets you instantly query cloud services like AWS, Azure and GCP with SQL
+
 # Database
 - https://ksqldb.io - ksqlDB - "The database purpose-built for stream processing applications"
 
