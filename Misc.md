@@ -97,4 +97,5 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 
 # API
 - https://stoplight.io/open-source/spectral - API Style Guide Enforcer / Linter
+- https://github.com/wiremock/wiremock - API mocking tool
 
