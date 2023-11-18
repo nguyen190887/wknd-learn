@@ -56,6 +56,7 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 - https://k8slens.dev - IDE/monitoring/debugger
 - https://www.telepresence.io - implement & k8s
 - https://github.com/up9inc/mizu/tree/main - API traffic viewer for Kubernetes (like Wireshark)
+- https://github.com/pixie-io/pixie - an open-source observability tool for Kubernetes applications
 
 # Mono repo
 - https://lerna.js.org/
