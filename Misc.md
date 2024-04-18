@@ -41,12 +41,14 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 # Testing
 ## API Testing
 - https://reqres.in/ - provides an open REST interface
+- https://github.com/usebruno/bruno - alternatives for Postman
 
 ## Unit Test
 - https://www.conftest.dev - test structured configured data (Terraform code, K8s configuration, etc.)
 
 ## UI
 - https://github.com/thoughtworks/Arium - Automation Testing Framework for XR(Unity) Applications
+- https://maestro.mobile.dev/ - Mobile UI Testing framework
 
 # OLAP
 - https://clickhouse.com
@@ -58,6 +60,7 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 - https://www.telepresence.io - implement & k8s
 - https://github.com/up9inc/mizu/tree/main - API traffic viewer for Kubernetes (like Wireshark)
 - https://github.com/pixie-io/pixie - an open-source observability tool for Kubernetes applications
+- https://www.openpolicyagent.org/ - policy-based control for cloud native environments
 
 # Mono repo
 - https://lerna.js.org/
@@ -101,3 +104,6 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 - https://stoplight.io/open-source/spectral - API Style Guide Enforcer / Linter
 - https://github.com/wiremock/wiremock - API mocking tool
 
+# DevOps
+- https://github.com/philips-labs/terraform-aws-github-runner - to create self-hosted agents for Github Action
+- https://github.com/tenable/terrascan - scan IaC code
