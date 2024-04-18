@@ -8,6 +8,9 @@
 ## Event-driven Architecture
 https://www.eventcatalog.dev/ - an Open Source project that helps you document your events, services and domains.
 
+## API document
+- https://buildwithfern.com/#docs
+
 # Team Collaboration
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack - VS liveshare
 - https://www.jetbrains.com/code-with-me/ - Code with Me by JetBrains
@@ -37,6 +40,7 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 - https://www.versioneye.com/ - checking version of dependencies (e.g. any vunerable issues in a package)
 - https://www.tripwire.com/ - can be used to monitor credentials file and more
 - https://42crunch.com/api-conformance-scan/ - API conformance scan, also auto generare tests; commercial tool
+- https://www.mend.io/renovate/ - "reduces risk, improves code quality, and cuts technical debt while improving time to release by automatically ensuring all dependencies are kept up to date"
 
 # Testing
 ## API Testing
@@ -107,3 +111,5 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 # DevOps
 - https://github.com/philips-labs/terraform-aws-github-runner - to create self-hosted agents for Github Action
 - https://github.com/tenable/terrascan - scan IaC code
+- https://github.com/akvorado/akvorado - network monitoring and analysis tool 
+- https://github.com/common-fate/granted - open multiple browser tabs in different AWS accounts (leverage browser profiles)
