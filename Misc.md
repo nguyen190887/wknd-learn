@@ -36,6 +36,7 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 # Security
 - https://www.versioneye.com/ - checking version of dependencies (e.g. any vunerable issues in a package)
 - https://www.tripwire.com/ - can be used to monitor credentials file and more
+- https://42crunch.com/api-conformance-scan/ - API conformance scan, also auto generare tests; commercial tool
 
 # Testing
 ## API Testing
