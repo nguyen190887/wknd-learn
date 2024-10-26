@@ -113,3 +113,6 @@ https://www.eventcatalog.dev/ - an Open Source project that helps you document y
 - https://github.com/tenable/terrascan - scan IaC code
 - https://github.com/akvorado/akvorado - network monitoring and analysis tool 
 - https://github.com/common-fate/granted - open multiple browser tabs in different AWS accounts (leverage browser profiles)
+
+# Domain/Business
+- https://domainstorytelling.org/quick-start-guide - Domain Story Telling tools
